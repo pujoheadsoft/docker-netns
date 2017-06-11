@@ -14,3 +14,4 @@ chmod +x docker-netns.sh
 ```shell
 ./docker-netns.sh help
 ```
+**Need run as root user.**
